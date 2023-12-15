@@ -1,0 +1,7 @@
+england, 1.22
+french, 2.33
+portuguese, 3.44
+dutch, 4.55
+german, 5.66
+italian, 6.77
+spanish, 7.88
